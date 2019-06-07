@@ -26,9 +26,9 @@ navigation:
     url: /
   - name: 关于
     url: /about
-  - name: 归档
+  - name: 图文
     url: /archive
-  - name: 标签
+  - name: 漫画
     url: /tags
 
 # 每页的文章数
